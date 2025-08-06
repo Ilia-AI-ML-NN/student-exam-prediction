@@ -5,6 +5,17 @@ This project uses **logistic regression** to predict whether a student will pass
 - 📚 hours of preparation
 - ✍️ number of tasks solved
 
+
+🧠 What this project demonstrates
+Logistic Regression (binary classification)
+
+2D Decision Boundary Visualization
+
+Predictive modeling in scikit-learn
+
+Data plotting with matplotlib
+
+
 The project includes visualization of the decision boundary and prediction of a new student.
 
 ---
@@ -28,3 +39,4 @@ Run the Python script:
 python logistic_regression_exam.py
 
 You’ll see the prediction and a visualized decision surface in a saved image (exam_prediction.png).
+
