@@ -5,6 +5,8 @@ This project uses **logistic regression** to predict whether a student will pass
 - 📚 hours of preparation
 - ✍️ number of tasks solved
 
+- ---
+
 
 🧠 What this project demonstrates
 Logistic Regression (binary classification)
