@@ -7,7 +7,6 @@ This project uses **logistic regression** to predict whether a student will pass
 
 - ---
 
-
 🧠 What this project demonstrates
 Logistic Regression (binary classification)
 
@@ -30,15 +29,8 @@ The project includes visualization of the decision boundary and prediction of a 
 
 ## 🚀 How to run
 
-1. Clone the repo or download the files
-2. Install dependencies:
-
 ```bash
 pip install -r requirements.txt
-
-Run the Python script:
-
 python logistic_regression_exam.py
-
 You’ll see the prediction and a visualized decision surface in a saved image (exam_prediction.png).
 
